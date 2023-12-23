@@ -15,6 +15,6 @@ Theory
 -------------
 
 1) Find the `middle` element.
-2) IF ``target`` > ``mid`` then search left
+2) IF ``target`` > ``mid`` then search right
     else search left.
 3) IF ``target`` == ``mid`` # found the ans
