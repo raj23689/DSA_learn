@@ -19,4 +19,4 @@ Theory
     else search left.
 3) IF ``target`` == ``mid`` # found the ans
 
-** IF `start` > `end` = element mot found.
+4) IF ``start`` > ``end`` = element mot found.
