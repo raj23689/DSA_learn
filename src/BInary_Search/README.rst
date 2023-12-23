@@ -18,3 +18,5 @@ Theory
 2) IF ``target`` > ``mid`` then search right
     else search left.
 3) IF ``target`` == ``mid`` # found the ans
+
+** IF `start` > `end` = element mot found.
