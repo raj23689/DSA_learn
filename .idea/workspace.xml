@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74d17206-49fc-4514-b765-f89bddd21f0d" name="Changes" comment="Added new instructions, to include in the README.rst">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BInary_Search/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/src/BInary_Search/README.rst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703352143657</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added new instructions, to include in the README.rst">
+      <option name="closed" value="true" />
+      <created>1703352187650</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703352187650</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
