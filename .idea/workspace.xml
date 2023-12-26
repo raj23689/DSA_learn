@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74d17206-49fc-4514-b765-f89bddd21f0d" name="Changes" comment="Added Leetcode MissingNumber problem Statement, and implemented it in Better Approach.">
+    <list default="true" id="74d17206-49fc-4514-b765-f89bddd21f0d" name="Changes" comment="Updated the problem statement and its approaches.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Problems/gfg/MissingNumInArray/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problems/gfg/MissingNumInArray/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problems/leetcode/MissingNumber/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problems/leetcode/MissingNumber/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -308,7 +307,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703611229785</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Updated the problem statement and its approaches.">
+      <option name="closed" value="true" />
+      <created>1703614380177</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1703614380177</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -344,6 +351,7 @@
     <MESSAGE value="Corrected a typo." />
     <MESSAGE value="added Beeter Approach Code." />
     <MESSAGE value="Added Leetcode MissingNumber problem Statement, and implemented it in Better Approach." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Leetcode MissingNumber problem Statement, and implemented it in Better Approach." />
+    <MESSAGE value="Updated the problem statement and its approaches." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the problem statement and its approaches." />
   </component>
 </project>

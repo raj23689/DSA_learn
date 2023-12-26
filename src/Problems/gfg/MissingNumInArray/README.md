@@ -135,7 +135,7 @@ for (i -> n) {
 
 **Time Complexity**: `O(N) + O(N)` `~ O(2*N)`, where `N = size of the array+1`. 
 
-_Reason_: For storing the frequencies in the hash array, the program takes `O(N)` time complexity and for checking the frequencies in the second step again `O(N)` is required. So, the total time complexity is `O(N) + O(N)`.
+_Reason_: For storing the frequencies in the hash array, the program takes `O(N)` time complexity and for checking the frequencies in the second step again `O(N)` is required. So, the total time complexity is `O(N) + O(N)` $$O(2n)$$.
 
 
 **Space Complexity** : `O(N)`, where `N = size of the array+1`. Here we are using an extra hash array of size `N+1`.
