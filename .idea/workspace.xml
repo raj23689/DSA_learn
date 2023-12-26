@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74d17206-49fc-4514-b765-f89bddd21f0d" name="Changes" comment="Added some more instructions and notes to better understand the Brute Force Approach." />
+    <list default="true" id="74d17206-49fc-4514-b765-f89bddd21f0d" name="Changes" comment="Updated the for to enhanced for loop.">
+      <change beforePath="$PROJECT_DIR$/src/Problems/gfg/MissingNumInArray/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problems/gfg/MissingNumInArray/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +39,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Basic.executor": "Run",
-    "Application.MissingNumInArray.executor": "Debug",
+    "Application.MissingNumInArray.executor": "Run",
+    "Application.Problems.gfg.MissingNumInArray.MissingNumInArray.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -232,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703606837624</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Updated the for to enhanced for loop.">
+      <option name="closed" value="true" />
+      <created>1703607013321</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1703607013321</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,6 +272,7 @@
     <MESSAGE value="Formatted the statements." />
     <MESSAGE value="Moved the files." />
     <MESSAGE value="Added some more instructions and notes to better understand the Brute Force Approach." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added some more instructions and notes to better understand the Brute Force Approach." />
+    <MESSAGE value="Updated the for to enhanced for loop." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the for to enhanced for loop." />
   </component>
 </project>

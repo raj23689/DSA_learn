@@ -86,3 +86,24 @@ We will try to find 2 in the given array using linear search. But number 2 is no
 **Reason**: In the worst case i.e. if the missing number is `N` itself, the outer loop will run for `N` times, and for every single number the inner loop will also run for approximately `N` times. So, the total time complexity will be `O(N2)`.
 
 **Space Complexity** : `0(1)` - as we are not using any extra space.
+
+Better Approach (using Hashing):
+--------------------------------
+
+Using the hashing technique, we will store the frequency of each element of the given array. Now, the number( i.e. between 1 to N) for which the frequency will be 0, will be returned.
+
+**Approach**:
+
+The algorithm steps are as follows:
+
+- The range of the number is `1 to N`. So, we need a hash array of size `N+1` (_as we want to store the frequency of `N` as well_).
+- Now, for each element in the given array, we will store the frequency in the hash array.
+After that, for each number between 1 to N, we will check the frequencies. And for any number, if the frequency is 0, we will return it.
+
+
+**Dry run**:
+
+Assume the given `array = {1,3}` and `N = 3`. The hash array will look like the following:
+
+
+We can clearly see that for index `2` the frequency is `0` and so `2` is our answer.
