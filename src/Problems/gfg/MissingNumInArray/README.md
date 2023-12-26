@@ -109,3 +109,24 @@ Assume the given `array = {1,3}` and `N = 3`. The hash array will look like the 
 ![7](https://github.com/raj23689/DSA_learn/assets/92665411/11598fcb-7398-49cd-b02b-bc83f3450e3b)
 
 We can clearly see that for index `2` the frequency is `0` and so `2` is our answer.
+
+_Psuedo Code_:
+
+```ignorelang
+hash[n+1] = {0};
+
+storing the frequencies
+for(i = 0; i < n; i++) {
+    {
+        hash[arr[i]]++;
+    }
+}
+// Check the frequencies for num
+// 1 to N
+for (i -> n) {
+    if (hash[i] == 0) {
+                return i;
+    }
+}
+   
+```

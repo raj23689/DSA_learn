@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74d17206-49fc-4514-b765-f89bddd21f0d" name="Changes" comment="Updated the for to enhanced for loop.">
+    <list default="true" id="74d17206-49fc-4514-b765-f89bddd21f0d" name="Changes" comment="Added better Approach.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Problems/gfg/MissingNumInArray/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problems/gfg/MissingNumInArray/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -243,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703607013321</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Added better Approach.">
+      <option name="closed" value="true" />
+      <created>1703607550119</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1703607550119</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,6 +282,7 @@
     <MESSAGE value="Moved the files." />
     <MESSAGE value="Added some more instructions and notes to better understand the Brute Force Approach." />
     <MESSAGE value="Updated the for to enhanced for loop." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the for to enhanced for loop." />
+    <MESSAGE value="Added better Approach." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added better Approach." />
   </component>
 </project>
