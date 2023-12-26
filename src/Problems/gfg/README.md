@@ -1,6 +1,6 @@
  Missing Number in Array
 --------------------------
-***
+
 
 Given an array of size `N-1` such that it only contains distinct integers in the range of `1 to N`. Find the missing element.
 
@@ -33,7 +33,7 @@ You don't need to read input or print anything. Complete the function `MissingNu
 
 Brute Force Approach
 --------------------
-***
+
 
 We know there will be `1 - N` numbers, so we can grab the numbers and check if it exists in the `Array` using `Linear Search`.
 
