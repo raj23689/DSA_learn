@@ -110,7 +110,7 @@ Assume the given `array = {1,3}` and `N = 3`. The hash array will look like the 
 
 We can clearly see that for index `2` the frequency is `0` and so `2` is our answer.
 
-_Psuedo Code_:
+_Pseudo Code_:
 
 ```ignorelang
 hash[n+1] = {0};
