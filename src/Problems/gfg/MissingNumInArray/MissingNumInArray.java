@@ -17,9 +17,14 @@ public class MissingNumInArray {
     // Space Complexity -> 0(1)
 
     /*  int missingNumber(int[] arr, int n) {
+     *   // Outer loop that runs from 1 to N
      *   for (int i = 1; i <= n; i++) {
-     *      int flag = 0; // Move the flag initialization inside the outer loop
-     *      for (int j = 0; j < arr.length; j++) { // Also, iterate until arr.length, not arr.length - 1
+     *      // flag variable to check
+     *     //  if an element exists
+     *      int flag = 0;
+     *      //Search the element using linear search
+     *      for (int j = 0; j < arr.length; j++) {
+     *          // i is present in the array
      *          if (arr[j] == i) {
      *              flag = 1;
      *              break;

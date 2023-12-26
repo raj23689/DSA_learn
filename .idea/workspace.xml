@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74d17206-49fc-4514-b765-f89bddd21f0d" name="Changes" comment="Formatted the statements." />
+    <list default="true" id="74d17206-49fc-4514-b765-f89bddd21f0d" name="Changes" comment="Moved the files.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problems/gfg/MissingNumInArray/MissingNumInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problems/gfg/MissingNumInArray/MissingNumInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problems/gfg/MissingNumInArray/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problems/gfg/MissingNumInArray/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +36,6 @@
   <component name="ProjectId" id="2Zx24iYey8W2NeKrupK03yzvOxS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
@@ -43,9 +46,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Code/Learn/Java/Dsa/src/Problems/gfg/MissingNumInArray",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\Learn\Java\Dsa\src\Problems\gfg\MissingNumInArray" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="MissingNumInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problems.gfg.MissingNumInArray" />
@@ -197,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703605451171</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Moved the files.">
+      <option name="closed" value="true" />
+      <created>1703605627662</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1703605627662</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +241,7 @@
     <MESSAGE value="Rename the files and the problem statement." />
     <MESSAGE value="Added Brute Force code and its approach." />
     <MESSAGE value="Formatted the statements." />
-    <option name="LAST_COMMIT_MESSAGE" value="Formatted the statements." />
+    <MESSAGE value="Moved the files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved the files." />
   </component>
 </project>
