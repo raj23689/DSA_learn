@@ -125,7 +125,7 @@ for(i = 0; i < n; i++) {
 // 1 to N
 for (i -> n) {
     if (hash[i] == 0) {
-                return i;
+         return i; // found the num
     }
 }
    
