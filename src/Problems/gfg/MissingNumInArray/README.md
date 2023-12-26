@@ -106,4 +106,6 @@ After that, for each number between 1 to N, we will check the frequencies. And f
 Assume the given `array = {1,3}` and `N = 3`. The hash array will look like the following:
 
 
+![7](https://github.com/raj23689/DSA_learn/assets/92665411/11598fcb-7398-49cd-b02b-bc83f3450e3b)
+
 We can clearly see that for index `2` the frequency is `0` and so `2` is our answer.
