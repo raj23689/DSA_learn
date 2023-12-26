@@ -40,8 +40,8 @@ public class MissingNumInArray {
     static int missingNumber(int[] arr, int n) {
         for (int i = 1; i <= n; i++) {
             int flag = 0; // Move the flag initialization inside the outer loop
-            for (int j = 0; j < arr.length; j++) { // Also, iterate until arr.length, not arr.length - 1
-                if (arr[j] == i) {
+            for (int k : arr) { // Also, iterate until arr.length, not arr.length - 1
+                if (k == i) {
                     flag = 1;
                     break;
                 }

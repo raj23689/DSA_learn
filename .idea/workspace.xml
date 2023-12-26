@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74d17206-49fc-4514-b765-f89bddd21f0d" name="Changes" comment="Moved the files.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problems/gfg/MissingNumInArray/MissingNumInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problems/gfg/MissingNumInArray/MissingNumInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problems/gfg/MissingNumInArray/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problems/gfg/MissingNumInArray/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="74d17206-49fc-4514-b765-f89bddd21f0d" name="Changes" comment="Added some more instructions and notes to better understand the Brute Force Approach." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +43,7 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Code/Learn/Java/Dsa/src/Problems/gfg/MissingNumInArray",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -55,7 +51,7 @@
       <recent name="D:\Code\Learn\Java\Dsa\src\Problems\gfg\MissingNumInArray" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Problems.gfg.MissingNumInArray.MissingNumInArray">
     <configuration name="MissingNumInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problems.gfg.MissingNumInArray" />
       <module name="Dsa" />
@@ -69,8 +65,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problems.gfg.MissingNumInArray.MissingNumInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problems.gfg.MissingNumInArray.MissingNumInArray" />
+      <module name="Dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Problems.gfg.MissingNumInArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problems.gfg.MissingNumInArray.MissingNumInArray" />
         <item itemvalue="Application.MissingNumInArray" />
       </list>
     </recent_temporary>
@@ -214,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703605627662</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Added some more instructions and notes to better understand the Brute Force Approach.">
+      <option name="closed" value="true" />
+      <created>1703606837624</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1703606837624</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,6 +260,7 @@
     <MESSAGE value="Added Brute Force code and its approach." />
     <MESSAGE value="Formatted the statements." />
     <MESSAGE value="Moved the files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved the files." />
+    <MESSAGE value="Added some more instructions and notes to better understand the Brute Force Approach." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some more instructions and notes to better understand the Brute Force Approach." />
   </component>
 </project>
