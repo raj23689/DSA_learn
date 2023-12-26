@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74d17206-49fc-4514-b765-f89bddd21f0d" name="Changes" comment="Added Brute Force code and its approach." />
+    <list default="true" id="74d17206-49fc-4514-b765-f89bddd21f0d" name="Changes" comment="Formatted the statements." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -189,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703605048212</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Formatted the statements.">
+      <option name="closed" value="true" />
+      <created>1703605451171</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1703605451171</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,6 +223,7 @@
     <MESSAGE value="Added MinimumNumInArray problem document." />
     <MESSAGE value="Rename the files and the problem statement." />
     <MESSAGE value="Added Brute Force code and its approach." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Brute Force code and its approach." />
+    <MESSAGE value="Formatted the statements." />
+    <option name="LAST_COMMIT_MESSAGE" value="Formatted the statements." />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package Problems.gfg;
+package Problems.gfg.MissingNumInArray;
 
 public class MissingNumInArray {
     public static void main(String[] args) {
