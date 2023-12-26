@@ -3,7 +3,7 @@ package Problems.gfg.MissingNumInArray;
 public class MissingNumInArray {
     public static void main(String[] args) {
         System.out.println("hello");
-        int[] arr = {1,2,3,5};
+        int[] arr = {1, 2, 3, 5};
         int n = 5;
         int response = missingNumber(arr, n);
         System.out.println("The missing num is: " + response);
@@ -36,21 +36,19 @@ public class MissingNumInArray {
      *  }
      *  return -1;
      * }
-    */
+     */
     static int missingNumber(int[] arr, int n) {
-        for (int i = 1; i <= n; i++) {
-            int flag = 0; // Move the flag initialization inside the outer loop
-            for (int k : arr) { // Also, iterate until arr.length, not arr.length - 1
-                if (k == i) {
-                    flag = 1;
-                    break;
-                }
-            }
-            if (flag == 0) {
-                return i; // Once the missing number is found, break the loop
-            }
+        int[] hash = new int[n+1]; // hash array
+
+        // Storing the freq
+        for (int i = 0; i < n - 1; i++) {
+            hash[arr[i]]++;
         }
+
+        // checking the frequencies for num 1 - N:
+        for (int i = 1; i <= n; i++)
+            if (hash[i] == 0) return i; // found the missing num
+
         return -1;
     }
-
 }
