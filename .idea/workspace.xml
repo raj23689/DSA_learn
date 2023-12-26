@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74d17206-49fc-4514-b765-f89bddd21f0d" name="Changes" comment="Added MinimumNumInArray problem document.">
-      <change beforePath="$PROJECT_DIR$/src/Problems/gfg/MinNumInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problems/gfg/MissingNumInArray.java" afterDir="false" />
+    <list default="true" id="74d17206-49fc-4514-b765-f89bddd21f0d" name="Changes" comment="Rename the files and the problem statement.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problems/gfg/MissingNumInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problems/gfg/MissingNumInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Problems/gfg/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problems/gfg/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Basic.executor": "Run",
+    "Application.MissingNumInArray.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -48,6 +50,26 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="MissingNumInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problems.gfg.MissingNumInArray" />
+      <module name="Dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Problems.gfg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MissingNumInArray" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -155,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703585432044</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Rename the files and the problem statement.">
+      <option name="closed" value="true" />
+      <created>1703585620918</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1703585620918</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +209,7 @@
     <MESSAGE value="Added Binary search code in README.rst" />
     <MESSAGE value="Updated indentations Binary search code in README.rst" />
     <MESSAGE value="Added MinimumNumInArray problem document." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added MinimumNumInArray problem document." />
+    <MESSAGE value="Rename the files and the problem statement." />
+    <option name="LAST_COMMIT_MESSAGE" value="Rename the files and the problem statement." />
   </component>
 </project>

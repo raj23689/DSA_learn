@@ -30,3 +30,35 @@ You don't need to read input or print anything. Complete the function `MissingNu
 **Expected Auxiliary Space:** ``O(1)``
 
 ***
+
+Brute Force Approach
+--------------------
+***
+
+We know there will be `1 - N` numbers, so we can grab the numbers and check if it exists in the `Array` using `Linear Search`.
+
+*Psuedo Code:*
+
+```
+int temp = 0;
+for (int i = 1; i <= N; i++) {
+   int flag = 0;
+   for (int j = 0; j < N - 1; j++) {
+        if (arr[j] == i) {
+            flag = 1;
+            break;
+        }
+   }
+   
+   if (flag == 0) {
+        return i;
+   }
+    
+}
+```
+
+**Time Complexity** : `0(n^2)` (in worst case (if element is not in the `arr`,
+                             and is hypothetical cause if ele is found in the beginning of the `arr`, then the second loop
+                            just doesn't run completely).
+
+**Space Complexity** : `0(1)`
