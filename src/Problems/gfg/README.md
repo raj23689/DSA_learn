@@ -1,4 +1,4 @@
- Minimum Number in Array
+ Missing Number in Array
 --------------------------
 ***
 

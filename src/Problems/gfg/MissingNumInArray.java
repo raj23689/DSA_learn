@@ -1,6 +1,6 @@
 package Problems.gfg;
 
-public class MinNumInArray {
+public class MissingNumInArray {
     public static void main(String[] args) {
         System.out.println("hello");
     }
