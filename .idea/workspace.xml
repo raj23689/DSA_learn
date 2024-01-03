@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74d17206-49fc-4514-b765-f89bddd21f0d" name="Changes" comment="Updated the problem statement and its approaches.">
+    <list default="true" id="74d17206-49fc-4514-b765-f89bddd21f0d" name="Changes" comment="Updated something.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Problems/gfg/MissingNumInArray/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problems/gfg/MissingNumInArray/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Code/Learn/Java/Dsa/src/Problems/gfg/MissingNumInArray",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "google-java-format.settings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -315,7 +314,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703614380177</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Updated something.">
+      <option name="closed" value="true" />
+      <created>1703615747126</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1703615747126</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -352,6 +359,7 @@
     <MESSAGE value="added Beeter Approach Code." />
     <MESSAGE value="Added Leetcode MissingNumber problem Statement, and implemented it in Better Approach." />
     <MESSAGE value="Updated the problem statement and its approaches." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the problem statement and its approaches." />
+    <MESSAGE value="Updated something." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated something." />
   </component>
 </project>
