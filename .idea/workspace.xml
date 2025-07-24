@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74d17206-49fc-4514-b765-f89bddd21f0d" name="Changes" comment="Updated something.">
+    <list default="true" id="74d17206-49fc-4514-b765-f89bddd21f0d" name="Changes" comment="Added Google style formatting.">
+      <change afterPath="$PROJECT_DIR$/src/Problems/leetcode/ArrayIsSortedAndRotated/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problems/leetcode/ArrayIsSortedAndRotated/ArrayIsSortedAndRotated.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problems/leetcode/ArrayIsSortedAndRotated/ArrayIsSortedAndRotated.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problems/leetcode/ArrayIsSortedAndRotated/Tests/ArrayIsSortedAndRotatedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problems/leetcode/ArrayIsSortedAndRotated/Tests/ArrayIsSortedAndRotatedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Problems/leetcode/MissingNumber/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Problems/leetcode/MissingNumber/MissingNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,22 +36,37 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2Zx24iYey8W2NeKrupK03yzvOxS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayIsSortedAndRotated.executor": "Run",
+    "Application.ArrayIsSortedAndRotatedTest.executor": "Run",
     "Application.Basic.executor": "Run",
     "Application.MissingNumInArray.executor": "Run",
     "Application.MissingNumber.executor": "Run",
     "Application.Problems.gfg.MissingNumInArray.MissingNumInArray.executor": "Run",
+    "Application.SecondLargest.executor": "Run",
+    "Application.TwoSum.executor": "Debug",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Code/Learn/Java/Dsa/src/Problems/gfg/MissingNumInArray",
-    "settings.editor.selected.configurable": "google-java-format.settings"
+    "last_opened_file_path": "D:/Code/Learn/Java/Dsa",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "fileTemplates",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -55,13 +74,26 @@
       <recent name="D:\Code\Learn\Java\Dsa\src\Problems\gfg\MissingNumInArray" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MissingNumber">
-    <configuration name="MissingNumInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problems.gfg.MissingNumInArray" />
+  <component name="RunManager" selected="Application.ArrayIsSortedAndRotatedTest">
+    <configuration name="ArrayIsSortedAndRotated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problems.leetcode.ArrayIsSortedAndRotated.ArrayIsSortedAndRotated" />
       <module name="Dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problems.gfg.*" />
+          <option name="PATTERN" value="Problems.leetcode.ArrayIsSortedAndRotated.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayIsSortedAndRotatedTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problems.leetcode.ArrayIsSortedAndRotated.Tests.ArrayIsSortedAndRotatedTest" />
+      <module name="Dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Problems.leetcode.ArrayIsSortedAndRotated.Tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +114,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problems.gfg.MissingNumInArray.MissingNumInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problems.gfg.MissingNumInArray.MissingNumInArray" />
+    <configuration name="SecondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problems.gfg.SecondLargest.SecondLargest" />
       <module name="Dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Problems.gfg.MissingNumInArray.*" />
+          <option name="PATTERN" value="Problems.gfg.SecondLargest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problems.leetcode.TwoSum.TwoSum" />
+      <module name="Dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Problems.leetcode.TwoSum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,16 +142,19 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayIsSortedAndRotatedTest" />
+        <item itemvalue="Application.ArrayIsSortedAndRotated" />
+        <item itemvalue="Application.SecondLargest" />
+        <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.MissingNumber" />
-        <item itemvalue="Application.Problems.gfg.MissingNumInArray.MissingNumInArray" />
-        <item itemvalue="Application.MissingNumInArray" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.1-openjdk-21.0.1-249ae16d76d6-a618e4d4" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
       </set>
     </attachedChunks>
   </component>
@@ -121,6 +169,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703349221618</updated>
+      <workItem from="1715447080771" duration="722000" />
+      <workItem from="1715448368601" duration="487000" />
+      <workItem from="1740473587585" duration="19000" />
+      <workItem from="1753203294467" duration="5183000" />
+      <workItem from="1753369884571" duration="1115000" />
     </task>
     <task id="LOCAL-00001" summary="Added initial Setup and tested tings on the IDE.">
       <option name="closed" value="true" />
@@ -322,8 +375,19 @@
       <option name="project" value="LOCAL" />
       <updated>1703615747126</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Added Google style formatting.">
+      <option name="closed" value="true" />
+      <created>1704274762981</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1704274762981</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -360,6 +424,7 @@
     <MESSAGE value="Added Leetcode MissingNumber problem Statement, and implemented it in Better Approach." />
     <MESSAGE value="Updated the problem statement and its approaches." />
     <MESSAGE value="Updated something." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated something." />
+    <MESSAGE value="Added Google style formatting." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Google style formatting." />
   </component>
 </project>
